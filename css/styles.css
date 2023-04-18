@@ -1,0 +1,209 @@
+body {
+  padding: 0;
+  font-family: 'Montserrat-black' sans-serif;
+  background-color: aliceblue;
+
+}
+  /* HEADING */
+  #heading{
+    font-family: cursive;
+    text-align: center;
+    padding-top: 1%;
+    
+    background-image: linear-gradient(to right,#003973, #E5E5BE);
+  }
+
+  .navbar-brand {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .nv-ig {
+    color: #fb3958;
+  }
+
+  .nv-in {
+    color: darkblue;
+  }
+
+  .nv-tw {
+    color: #1DA1F2 rgba(29, 161, 242);
+  }
+
+  .nav-link {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  .nav-item {
+    padding: 0 20px;
+    transition: transform 1s;
+  }
+
+  .nav-item:hover {
+    color: white;
+    transform: scale(1.5);
+  }
+
+  .navbar {
+    margin: 0;
+    padding: 0 0 1% 0;
+    text-align: center;
+  }
+
+  h1 {
+    margin: 0;
+  }
+
+  /* Identity */
+  #identity {
+    text-align: center;
+    padding: 7%;
+    color: black;
+    background-image: linear-gradient(to right,#003973, #E5E5BE);
+    font-family: cursive;
+  }
+
+  .my-pic {
+    width: 55%;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .info {
+    font-size: 1.5rem
+  }
+
+  /* INFORMATION */
+  #information {
+    background-image: linear-gradient(to right,#003973, #E5E5BE);
+    padding: 4%;
+    text-align: center;
+    font-family: cursive;
+  }
+  #information h3{
+    font-size: 1.5rem;
+  }
+
+  /* EDUCATION */
+  #education {
+    text-align: center;
+    padding: 5%;
+    font-family: cursive;
+   
+  }
+  .edu-div{
+    box-shadow: 5px 10px 8px 10px #334D50;
+    margin: 1% 20% 1% 20%;
+    border-radius: 2%;
+    padding: 5%;    
+    background-image: linear-gradient(to right, #FFFDE4 ,#005AA7);
+  }
+
+  /* SKILLLLLL */
+  #skill {
+    background-image: linear-gradient(to top,black, #E4E5E6);
+     box-shadow: 5px 10px 8px 10px #888888;
+    padding: 2%;
+    margin: 5% 12% 5% 12%;
+    text-align: center;
+    border-radius: 3%;
+    font-family: cursive;
+    color:black;
+  }
+
+  .sk {
+    font-size: 1000%;
+    color: yellow;
+  }
+
+  .sk-green {
+    color: green;
+  }
+
+  .sk-lightblue {
+    color: skyblue;
+  }
+
+  .sk-red {
+    color: red;
+  }
+
+  .sk-boot {
+    color: #A020F0;
+  }
+
+  td {
+    font-weight: bold;
+    font-size: 120%;
+    font-family: cursive;
+  }
+
+  .skill-head {
+    font-family: 'Montserrat-black' sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: black;
+  }
+  .carousel-item{
+    color:white;
+  }
+.star{
+  color: #FFC300 ;
+  font-size: 1.5rem;
+  padding-top: 1%;
+}
+  .skill-img {
+    width: 20%;
+    border-radius: 60%;
+  }
+
+  /* ACTIVITE */
+  #Activite {
+    padding: 4%;
+    text-align: center;
+    font-weight: bold;
+    background-image: linear-gradient(to right,#003973, #E5E5BE);
+    color: black;
+    font-family: cursive;
+  }
+
+  .active-img {
+    width: 30%;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  #Activite p {
+    font-size: 1.5rem;
+  }
+
+  /* FAMILY */
+  #Family {
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+    background-image: linear-gradient(to right,#003973, #E5E5BE);
+    color: black ;
+    font-family: cursive;
+  }
+
+  h2 {
+    padding-bottom: 2%;
+    font-weight: bold;
+    font-size: 3rem;
+    font-family: ' Montserrat' sans-serif;
+  }
+
+  /* FOOTER */
+  #footer {
+    text-align: center;
+    background-color: #f0f0d0;
+    padding: 2%;
+  }
+
+  .foot-p {
+    margin: 0;
+  }
